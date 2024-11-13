@@ -10,16 +10,21 @@
 
 ## Nome do grupo
 
-## 👨‍🎓 Integrantes: 
+## 👨‍🎓 Integrantes:
+
 - <a href="https://www.linkedin.com/company/">Edmar Ferreira Souza</a>
 - <a href="https://www.linkedin.com/company/">Thiago Lima Bernardes</a>
-- <a href="https://www.linkedin.com/company/">Alexandre Oliveira Mantovani</a> 
-- <a href="https://www.linkedin.com/company/">Ricardo Lourenço Coube</a> 
+- <a href="https://www.linkedin.com/company/">Alexandre Oliveira Mantovani</a>
+- <a href="https://www.linkedin.com/company/">Ricardo Lourenço Coube</a>
 
 ## 👩‍🏫 Professores:
-### Tutor(a) 
+
+### Tutor(a)
+
 - <a href="https://www.linkedin.com/in/lucas-gomes-moreira-15a8452a/">Lucas Gomes Moreira</a>
+
 ### Coordenador(a)
+
 - <a href="https://www.linkedin.com/in/profandregodoi/">André Godoi</a>
 
 ## 📜 Descrição
@@ -39,13 +44,14 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 1. Abra o script do programa "api.py"
 2. Configure as credenciais do banco de dados no local indicado.
-3. Baixe e configure o MySql com suas credenciais de conexão. 
+3. Baixe e configure o MySql com suas credenciais de conexão.
 4. Execute o "create_table.sql".
 5. Execute o programa "api.py"
 6. Execute o programa "dashbord.py"
 7. Execute o programa "dashboard.R"
 
 ### Funcionalidades
+
 Controle e Coleta de Dados (ESP32 e Sensores): Utilizando um ESP32, o sistema monitora a umidade do solo, níveis de nutrientes (P e K) e pH, além de controlar uma bomba de água. Quando a umidade está baixa e um dos nutrientes estão presentes, a bomba é ativada automaticamente. Os dados coletados são exibidos em tempo real no Monitor Serial.
 
 <p align="center">
@@ -70,7 +76,11 @@ exportar_para_csv(): Exporta os dados da consulta para um arquivo .csv que será
 
 ## 🗃 Histórico de lançamentos
 
-* 1.0.0 - 10/11/2024
+- 1.0.0 - 10/11/2024
+
+## ▶️ YouTube
+
+- <a href="https://youtu.be/gs1GEXbf4UA">Sistema de Irrigação</a>
 
 ## 📋 Licença
 
